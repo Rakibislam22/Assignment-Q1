@@ -41,7 +41,7 @@ class Colour {
 }
 
 
-public class Main {
+public class Q2 {
     public static void main(String[] args) {
         Colour red = new Colour("Red");
         Colour blue = new Colour("Blue");
